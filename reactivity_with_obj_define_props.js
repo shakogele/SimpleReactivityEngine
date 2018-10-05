@@ -51,8 +51,3 @@ watcher(()=>{
 data.price = 5;
 data.price = 20;
 console.log(data.quantity)
-
-// console.log(`total is ${total}`);
-// price = 20;
-// dep.notify();
-// console.log(`total is ${total}`);
